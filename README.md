@@ -14,7 +14,7 @@ Follow these steps to run the application on your local machine:
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/yerasyppp/Log-Analyzer
+git clone https://github.com/Yerassyp/Log-Analyzer
 cd log-analyzer
 ```
 **Step 2: Run the main application** 
